@@ -1,0 +1,6 @@
+C:\Users\rened\source\repos\RecordDatabase\bin\Debug\RecordDatabase.dacpac
+C:\Users\rened\source\repos\RecordDatabase\bin\Debug\RecordDatabase.dll
+C:\Users\rened\source\repos\RecordDatabase\bin\Debug\RecordDatabase.pdb
+C:\Users\rened\source\repos\RecordDatabase\obj\Debug\RecordDatabase.sqlproj.AssemblyReference.cache
+C:\Users\rened\source\repos\RecordDatabase\obj\Debug\RecordDatabase.dll
+C:\Users\rened\source\repos\RecordDatabase\obj\Debug\RecordDatabase.pdb

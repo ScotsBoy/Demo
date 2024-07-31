@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rened\\source\\repos\\RecordStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62356A61-7F99-40EA-8DC3-1887E4DB2408}|RecordStore.csproj|c:\\users\\rened\\source\\repos\\recordstore\\views\\releases\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62356A61-7F99-40EA-8DC3-1887E4DB2408}|RecordStore.csproj|solutionrelative:views\\releases\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62356A61-7F99-40EA-8DC3-1887E4DB2408}|RecordStore.csproj|c:\\users\\rened\\source\\repos\\recordstore\\views\\media\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62356A61-7F99-40EA-8DC3-1887E4DB2408}|RecordStore.csproj|solutionrelative:views\\media\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62356A61-7F99-40EA-8DC3-1887E4DB2408}|RecordStore.csproj|c:\\users\\rened\\source\\repos\\recordstore\\controllers\\artistscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62356A61-7F99-40EA-8DC3-1887E4DB2408}|RecordStore.csproj|solutionrelative:controllers\\artistscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62356A61-7F99-40EA-8DC3-1887E4DB2408}|RecordStore.csproj|c:\\users\\rened\\source\\repos\\recordstore\\views\\artists\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62356A61-7F99-40EA-8DC3-1887E4DB2408}|RecordStore.csproj|solutionrelative:views\\artists\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62356A61-7F99-40EA-8DC3-1887E4DB2408}|RecordStore.csproj|c:\\users\\rened\\source\\repos\\recordstore\\views\\artists\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62356A61-7F99-40EA-8DC3-1887E4DB2408}|RecordStore.csproj|solutionrelative:views\\artists\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62356A61-7F99-40EA-8DC3-1887E4DB2408}|RecordStore.csproj|c:\\users\\rened\\source\\repos\\recordstore\\views\\artists\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62356A61-7F99-40EA-8DC3-1887E4DB2408}|RecordStore.csproj|solutionrelative:views\\artists\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rened\\source\\repos\\RecordStore\\Views\\Media\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Media\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rened\\source\\repos\\RecordStore\\Views\\Media\\Index.cshtml",
+              "RelativeToolTip": "Views\\Media\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-31T16:38:41.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rened\\source\\repos\\RecordStore\\Views\\Releases\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Releases\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rened\\source\\repos\\RecordStore\\Views\\Releases\\Index.cshtml",
+              "RelativeToolTip": "Views\\Releases\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-31T16:38:31.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArtistsController.cs",
+              "DocumentMoniker": "C:\\Users\\rened\\source\\repos\\RecordStore\\Controllers\\ArtistsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ArtistsController.cs",
+              "ToolTip": "C:\\Users\\rened\\source\\repos\\RecordStore\\Controllers\\ArtistsController.cs",
+              "RelativeToolTip": "Controllers\\ArtistsController.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAEUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T16:33:48.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\rened\\source\\repos\\RecordStore\\Views\\Artists\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Artists\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\rened\\source\\repos\\RecordStore\\Views\\Artists\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Artists\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-31T16:33:32.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\rened\\source\\repos\\RecordStore\\Views\\Artists\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Artists\\Details.cshtml",
+              "ToolTip": "C:\\Users\\rened\\source\\repos\\RecordStore\\Views\\Artists\\Details.cshtml",
+              "RelativeToolTip": "Views\\Artists\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-31T16:33:22.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\rened\\source\\repos\\RecordStore\\Views\\Artists\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Artists\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\rened\\source\\repos\\RecordStore\\Views\\Artists\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Artists\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-31T16:33:11.146Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
